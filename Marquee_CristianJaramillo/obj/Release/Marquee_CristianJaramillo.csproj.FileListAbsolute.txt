@@ -1,0 +1,8 @@
+G:\Marquee_CristianJaramillo\Marquee_CristianJaramillo\bin\Release\Marquee_CristianJaramillo.exe
+G:\Marquee_CristianJaramillo\Marquee_CristianJaramillo\bin\Release\Marquee_CristianJaramillo.pdb
+G:\Marquee_CristianJaramillo\Marquee_CristianJaramillo\obj\Release\ResolveAssemblyReference.cache
+G:\Marquee_CristianJaramillo\Marquee_CristianJaramillo\obj\Release\Marquee_CristianJaramillo.Form1.resources
+G:\Marquee_CristianJaramillo\Marquee_CristianJaramillo\obj\Release\Marquee_CristianJaramillo.Properties.Resources.resources
+G:\Marquee_CristianJaramillo\Marquee_CristianJaramillo\obj\Release\Marquee_CristianJaramillo.csproj.GenerateResource.Cache
+G:\Marquee_CristianJaramillo\Marquee_CristianJaramillo\obj\Release\Marquee_CristianJaramillo.exe
+G:\Marquee_CristianJaramillo\Marquee_CristianJaramillo\obj\Release\Marquee_CristianJaramillo.pdb
